@@ -1,13 +1,7 @@
-body {
-    background-color: darkgray;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    color: rgb(255, 255, 255);
-    text-align: center;
-  }
+span.a {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
